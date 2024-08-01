@@ -1,0 +1,11 @@
+variable "ami" {}
+variable "keypair" {}
+variable "nexus-sg" {}
+variable "subnet_id" {}
+variable "nexus-name" {}
+variable "elb-subnets" {}
+variable "cert-arn" {}
+variable "nr-key" {}
+variable "nr-acc-id" {}
+variable "nr-region" {}
+variable "iam-role-name" {}
